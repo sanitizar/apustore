@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar {
+    z-index: 3;
+    
+}
+
+@media (max-width: 740px) {
+    html, body, header, .carousel {
+        height: 100vh;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    html, body, header, .carousel {
+        height: 100vh;
+    }
+}
+
+.view, body, html {
+    height: 100vh;
+}
+/* carousel */
+.carousel {
+    height: 80vh;
+}
+
+.carousel .carousel-inner, .carousel .carousel-inner .active, .carousel .carousel-inner .carousel-item {
+    height: 80vh;
+}
+
+@media (max-width:776px) {
+    .carousel {
+        height: 100vh;
+    }
+}
+
+/* sobre nosotros */
+.figure:hover{
+    
+}
+
+
+/* footer */
+.page-footer {
+    background-color: #929FBA;
+}
