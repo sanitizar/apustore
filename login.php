@@ -29,6 +29,7 @@ $loginCorrecto=NULL;
         
         <label for="password">Contraseña</label>
         <input type="password" name="password" />
+        <button>prueba</button>
 
         <input type="submit" value="Login" />
     </form>
