@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
-
 html {
     scroll-behavior: smooth;
 }
@@ -11,7 +10,6 @@ a {
 
 .navbar {
     z-index: 3;
-    
 }
 
 @media (max-width: 740px) {
@@ -29,7 +27,9 @@ a {
 .view, body, html {
     height: 100vh;
 }
+
 /* carousel */
+
 .carousel {
     height: 80vh;
 }
@@ -45,12 +45,13 @@ a {
 }
 
 /* sobre nosotros */
-.figure:hover{
-    
-}
 
+/* .figure:hover{
+    
+} */
 
 /* footer */
+
 .page-footer {
     background-color: #929FBA;
 }

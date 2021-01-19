@@ -1,4 +1,4 @@
-<div id="carousel-example-1z" class="carousel slide carousel-fade pt-4" data-ride="carousel">
+<div id="carousel-example-1z" class="carousel slide carousel-fade pt-4 h-100" data-ride="carousel">
     <!--Indicators-->
     <ol class="carousel-indicators">
         <li data-target="#carousel-example-1z" data-slide-to="0" class="active"></li>
@@ -8,7 +8,7 @@
     <!--/.Indicators-->
 
     <!--Slides-->
-    <div class="carousel-inner" role="listbox">
+    <div class="carousel-inner h-100" role="listbox">
         <!--First slide-->
         <div class="carousel-item active">
             <div class="view" style="background-image: url('https://images8.alphacoders.com/779/thumb-1920-779649.jpg'); background-repeat: no-repeat; background-size: cover; height: 100vh;">

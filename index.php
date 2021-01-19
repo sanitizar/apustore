@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,15 +13,16 @@
     <link rel="stylesheet" href="bootstrap/css/style.css">
     <title>Los Simpsons Tienda</title>
 </head>
+
 <body>
-    <?php 
-        include "header.php";
+    <?php
+    include "header.php";
     ?>
-    <?php 
-        include "carousel.php";
+    <?php
+    include "carousel.php";
     ?>
-    <?php 
-        include "main.php";
+    <?php
+    include "main.php";
     ?>
 
 
@@ -31,4 +33,5 @@
     <script type="text/javascript" src="bootstrap/js/mdb.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/style.js"></script>
 </body>
+
 </html>
