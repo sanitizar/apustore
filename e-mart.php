@@ -48,7 +48,7 @@
           </li>
         </ul>
         <form class="d-flex ml-auto">
-          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="search">
+          <input class="form-control mx-2" type="search" placeholder="Buscar" aria-label="search">
           <span class="input-group-text mr-lg-5" style="background-color: #76C246;" id="basic-addon1">
             <i class="fas fa-search" style="color: white;"></i></span>
           <span class="nav-link"><i class="fas fa-shopping-basket" style="color: #76C246;"></i></span>
